@@ -1,2 +1,4 @@
-a = [[3]*[3]]
+import array as arr
+a = 3*[""]
+
 print (a)
