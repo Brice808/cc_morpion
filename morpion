@@ -1,2 +1,2 @@
 import array as arr
-a = arr.array('i', [9, 9 ] )
+a = arr.array('i', [3, 3 ] )
