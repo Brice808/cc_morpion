@@ -1,4 +1,5 @@
 import array as arr
-a = 3*[""]
+l, c = (3,3)
+a = [l*[""]]*c
 
 print (a)
