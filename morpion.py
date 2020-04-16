@@ -1,8 +1,8 @@
 a = [[''for i in range (3)]for j in range (3)]
-for i in range (3):
-    a [i][0] ='x'
-    a [i][2] ='o'
+a [0][0] ='x'
+a [2][0] ='x'
+a [0][2] ='o'
 
-for j in range (3):
-    a [j][2] ='o'
+
+for i in range (3):
     print  (a[i])
