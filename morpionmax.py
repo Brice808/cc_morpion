@@ -13,9 +13,10 @@ while tour !=4:
     a = input ()
     print('votre choix' + a)
     j1 += 1
+    print (a)
     print ('saisissez votre choix x et y de coordonées pour le tour')
     a = input ()
     print('votre choix' + a)
     j2  += 1
     tour += 1
-    
+    print (a)
